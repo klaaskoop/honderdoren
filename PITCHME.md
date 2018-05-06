@@ -1,6 +1,5 @@
 # 100 oren
----
---- ?image=benzinger.jpg&size=auto 50%&position=right
+--- ?image=benzinger.jpg&size=auto&position=right
 ## oorthermometer
 @div[left-50]
 Thomas H. Benzinger 1905-1999  
