@@ -1,7 +1,7 @@
 # 100 oren
---- ?image=benzinger.jpg&size=auto&position=right
+--- ?image=benzinger.jpg&size=75% auto&position=right
 ## oorthermometer
-@div[left-50]
+@div[left-65]
 Thomas H. Benzinger 1905-1999  
 Operatie Paperclip
 @divend
